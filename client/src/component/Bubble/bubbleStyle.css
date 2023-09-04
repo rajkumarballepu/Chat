@@ -1,0 +1,38 @@
+.bubble-container {
+    border: 1px #000 solid;
+    padding: 5px 2rem;
+    width: 70%;
+    margin: 5px 0px;
+    background-color: #fff;
+    color: #9439FB;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 20px;
+}
+
+#you {
+    align-self: flex-end;
+    background-color: #973bff;
+    color: #fff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 10px;
+}
+
+.username {
+    font-size: 12px;
+}
+
+.bubble {
+    margin: 3px 0px;
+    width: 100%;
+    height: auto;
+    padding: 0 5px 0 0;
+    word-wrap: break-word;
+    /* text-overflow: clip; */
+}
+
+.date {
+    font-size: 12px;
+}
